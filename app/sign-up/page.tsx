@@ -26,7 +26,7 @@ export default function SignUp() {
                         <p className="text-sm">Welcome! Create an account to get started</p>
                     </div>
 
-                    <div className="mt-6 grid grid-cols-2 gap-3 hidden">
+                    <div className="hidden">
                         <Button
                             type="button"
                             variant="outline">

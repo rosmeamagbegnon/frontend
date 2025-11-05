@@ -21,7 +21,7 @@ export default function LoginPage() {
                         <p className="text-sm">Welcome back! Sign in to continue</p>
                     </div>
 
-                    <div className="mt-6 grid grid-cols-2 gap-3 hidden">
+                    <div className="hidden">
                         <Button
                             type="button"
                             variant="outline">
